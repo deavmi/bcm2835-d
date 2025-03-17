@@ -1,0 +1,20 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/bcm2835
+bcm2835.so
+bcm2835.dylib
+bcm2835.dll
+bcm2835.a
+bcm2835.lib
+bcm2835-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
+
+# Library files
+*.a
+dub.selections.json
