@@ -104,7 +104,7 @@ Note, that you may want to specify the `WPI_NEW_SETUP` flag on the command-line 
 
 ## Dependencies
 
-You need to install the `` package so that the share
+You need to install the `libwiringpi-dev` package so that the share
 object files required during link time are available.
 
 The actual linking is handled all automatically by
