@@ -1,5 +1,7 @@
 /**
  * Logging utilities
+ *
+ * Authors: Tristan Brice Velloza Kildaire
  */
 module bcm2835.logging;
 
