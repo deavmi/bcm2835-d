@@ -1,7 +1,7 @@
 bcm2835-d
 =========
 
-D wrapper for [WiringPi](https://github.com/WiringPi/WiringP)(https://github.com/WiringPi/WiringP) (Raspberry Pi GPIO library) complete with nice abstractions and a clear implementation.
+D wrapper for [WiringPi](https://github.com/WiringPi/WiringP) (Raspberry Pi GPIO library) complete with nice abstractions and a clear implementation.
 
 ## How to use
 
