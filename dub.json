@@ -1,0 +1,18 @@
+{
+	"name": "bcm2835-d",
+	"license": "LGPL-2.1-only",
+	"description": "High-level D bindings around the WiringPi library",
+	"authors": [
+		"Tristan B. Velloza Kildaire"
+	],
+	"copyright": "Copyright © 2025, Tristan B. Velloza Kildaire",
+
+	"dependencies": {
+		"gogga": ">=3.1.1",
+		"niknaks": ">=0.24.0"
+	},
+	"libs": [
+		"wiringPi"
+	],
+	"targetType": "library"
+}
