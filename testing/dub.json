@@ -1,0 +1,15 @@
+{
+	"name": "testing",
+	"description": "Testing example",
+	"license": "LGPL-2.1-only",
+	"authors": [
+		"Tristan B. Velloza Kildaire"
+	],
+	"copyright": "Copyright © 2025, Tristan B. Velloza Kildaire",
+		
+    "dependencies": {
+    	"bcm2835-d": "~master"
+    },
+    "targetType": "executable",
+    "versions": ["DBG_PRINT"]
+}
