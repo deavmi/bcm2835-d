@@ -7,7 +7,7 @@ module bcm2835.driver;
 
 version(DBG_PRINT)
 {
-	import bcm2835.logging;
+	import gogga.mixins;
 }
 
 // WiringPi definitions
