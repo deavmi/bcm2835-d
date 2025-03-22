@@ -11,9 +11,9 @@ void main()
 	writeln("Got driver: ", driver);
 
 	// set the pins as outputs
-	Pin pin_1 = 18;
-	Pin pin_2 = 23;
-	Pin pin_3 = 24;
+	Pin pin_1 = 19;
+	Pin pin_2 = 20;
+	Pin pin_3 = 21;
 	driver.output(pin_1, pin_2, pin_3);
 
 	// drive them all low
@@ -29,7 +29,7 @@ void main()
 	Thread.sleep(dur!("seconds")(1));
 
 	// do a fancy little light affect
-	Duration wait = dur!("msecs")(100);
+	Duration wait = dur!("seconds")(2);
 	while(true)
 	{
 		writeln("red");
